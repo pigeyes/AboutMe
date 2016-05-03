@@ -1,2 +1,2 @@
-# movies
-A movie library website.
+# About me
+About Ming-Ching Chu.
